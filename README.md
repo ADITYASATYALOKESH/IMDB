@@ -1,2 +1,2 @@
 # IMDB
-Used IMDB dataset for analysis movie reviews using navie bayes multinomial algorithm .
+Used IMDB dataset for  movie reviews analysis using navie bayes multinomial algorithm .
